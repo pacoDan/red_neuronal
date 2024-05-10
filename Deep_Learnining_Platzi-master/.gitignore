@@ -1,0 +1,14 @@
+.idea/*
+2 Curso de Redes Neuronales Convolucionales/Competencia Kaggle/data/*
+3 Curso profesional de Redes Neuronales con TensorFlow/data/*
+3 Curso profesional de Redes Neuronales con TensorFlow/3 Optimización del modelo/5 Keras Tuner/models/test/*
+3 Curso profesional de Redes Neuronales con TensorFlow/3 Optimización del modelo/5 Keras Tuner/models/best_model.h5
+
+/3 Curso profesional de Redes Neuronales con TensorFlow/3 Optimización del modelo/5 Keras Tuner/models/test/
+/3 Curso profesional de Redes Neuronales con TensorFlow/4 Almacenamiento y carga del modelo/2 Model Checkpoint/models/best_model.h5
+/3 Curso profesional de Redes Neuronales con TensorFlow/4 Almacenamiento y carga del modelo/2 Model Checkpoint/models/last_model.h5
+/3 Curso profesional de Redes Neuronales con TensorFlow/4 Almacenamiento y carga del modelo/2 Model Checkpoint/models/best_model_tuned.h5
+/3 Curso profesional de Redes Neuronales con TensorFlow/Proyecto Final/dataset/
+/3 Curso profesional de Redes Neuronales con TensorFlow/Proyecto Final/models/
+/12 Desarrollo ChatBot/envs/*
+/13 Curso de LangChain/secret/*
